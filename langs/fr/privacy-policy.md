@@ -30,9 +30,14 @@ Non vendiamo né condividiamo le tue informazioni personali con terze parti, sal
 
 I dati vengono archiviati in modo sicuro presso fornitori affidabili (come Supabase) e protetti da misure tecniche adeguate.
 
-## 5. I Tuoi Diritti
+## 5. Vos Droits
 
-Puoi accedere, correggere o cancellare i tuoi dati in qualsiasi momento. Scrivici all’indirizzo qui sotto.
+Vous pouvez accéder, corriger ou supprimer vos données à tout moment. Pour cela :
+
+- Envoyez un e-mail à 📩 suportepuzzlearena@gmail.com avec votre identifiant Facebook ou l'adresse e-mail associée à votre compte.
+- **Ou utilisez le bouton "Supprimer le compte" disponible dans les paramètres de l'application.**
+
+Vos données seront supprimées de manière sécurisée et définitive après confirmation.
 
 ## 6. Modifiche alla Presente Informativa
 

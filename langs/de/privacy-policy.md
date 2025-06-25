@@ -32,7 +32,12 @@ Ihre Daten werden sicher auf zuverlässigen Plattformen wie Supabase gespeichert
 
 ## 5. Ihre Rechte
 
-Sie können jederzeit auf Ihre Daten zugreifen, sie korrigieren oder löschen. Kontaktieren Sie uns dazu per E-Mail.
+Sie können jederzeit auf Ihre Daten zugreifen, sie korrigieren oder löschen. Dazu:
+
+- Senden Sie eine E-Mail an 📩 suportepuzzlearena@gmail.com mit Ihrer Facebook-ID oder der E-Mail-Adresse, die mit Ihrem Konto verknüpft ist.
+- **Oder verwenden Sie die Schaltfläche "Konto löschen" in den App-Einstellungen.**
+
+Ihre Daten werden nach Bestätigung sicher und dauerhaft gelöscht.
 
 ## 6. Änderungen dieser Richtlinie
 

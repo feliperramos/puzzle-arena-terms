@@ -32,7 +32,12 @@ Your data is stored securely using trusted services (such as Supabase and social
 
 ## 5. Your Rights
 
-You may request access, correction, or deletion of your data at any time. Contact us at the email below.
+You may access, correct, or delete your data at any time. To do so:
+
+- Send an email to 📩 suportepuzzlearena@gmail.com including your Facebook ID or the email associated with your account.
+- **Or use the "Delete Account" button available in the app’s settings screen.**
+
+Your data will be permanently and securely deleted upon confirmation.
 
 ## 6. Changes to This Policy
 

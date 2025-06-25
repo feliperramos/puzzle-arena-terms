@@ -32,7 +32,12 @@ Tus datos se almacenan de forma segura mediante servicios confiables (como Supab
 
 ## 5. Tus Derechos
 
-Puedes acceder, corregir o eliminar tus datos en cualquier momento. Contáctanos por el correo abajo.
+Puedes acceder, corregir o eliminar tus datos en cualquier momento. Para hacerlo:
+
+- Envía un correo electrónico a 📩 suportepuzzlearena@gmail.com con tu ID de Facebook o el correo electrónico asociado a tu cuenta.
+- **O utiliza el botón "Eliminar cuenta" disponible en la pantalla de configuración de la aplicación.**
+
+Tus datos serán eliminados de forma segura y permanente tras la confirmación.
 
 ## 6. Cambios en esta Política
 

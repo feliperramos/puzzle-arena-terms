@@ -32,7 +32,12 @@ Seus dados são armazenados em provedores confiáveis (como Supabase e serviços
 
 ## 5. Seus Direitos
 
-Você pode acessar, corrigir ou excluir seus dados a qualquer momento. Para isso, entre em contato pelo e-mail abaixo.
+Você pode acessar, corrigir ou excluir seus dados a qualquer momento. Para isso:
+
+- Envie um e-mail para 📩 suportepuzzlearena@gmail.com com o seu ID do Facebook ou o e-mail associado à sua conta.
+- **Ou, utilize o botão "Excluir conta" na tela de configurações do aplicativo.**
+
+Seus dados serão removidos de forma segura e permanente após a confirmação.
 
 ## 6. Alterações nesta Política
 
