@@ -1,40 +1,42 @@
-# Politique de Confidentialité
+# Informativa sulla Privacy
 
-**Dernière mise à jour :** 1er juin 2025
+**Ultimo aggiornamento:** 25 giugno 2025
 
-Votre vie privée est importante pour nous. Cette Politique de Confidentialité décrit comment nous collectons, utilisons, stockons et partageons vos informations lorsque vous utilisez l'application Puzzle Arena.
+La tua privacy è importante per noi. Questa informativa spiega come raccogliamo, utilizziamo, archiviamo e proteggiamo i tuoi dati durante l'uso dell'app Puzzle Arena.
 
-## 1. Informations que Nous Collectons
+## 1. Informazioni Raccolte
 
-Nous collectons des données telles que :
+Possiamo raccogliere:
 
-- Nom d'utilisateur et adresse e-mail (lorsque vous vous connectez via les réseaux sociaux)
-- Progression et statistiques de jeu
-- Informations sur l'appareil (modèle, langue, version du système)
+- Nome utente ed email (in caso di login tramite social network)
+- Progresso di gioco e statistiche (XP, monete, obiettivi, ecc.)
+- Informazioni sul dispositivo: modello, lingua, versione del sistema e identificatore univoco del dispositivo
 
-## 2. Utilisation des Informations
+> 🔐 Questo identificatore viene utilizzato **esclusivamente per salvare il progresso sul dispositivo senza login**, e **non viene condiviso con terzi né usato per scopi pubblicitari o di tracciamento**.
 
-Nous utilisons vos données pour :
+## 2. Uso delle Informazioni
 
-- Personnaliser l'expérience dans l'app
-- Sauvegarder votre progression
-- Afficher des statistiques et des récompenses
+Utilizziamo i tuoi dati per:
 
-## 3. Partage des Informations
+- Personalizzare l’esperienza dell’app
+- Salvare e ripristinare i tuoi progressi
+- Mostrare statistiche, premi e impostazioni
 
-Nous ne vendons ni ne partageons vos informations personnelles avec des tiers, sauf lorsque cela est nécessaire pour fournir nos services ou lorsque la loi l'exige.
+## 3. Condivisione delle Informazioni
 
-## 4. Stockage et Sécurité
+Non vendiamo né condividiamo le tue informazioni personali con terze parti, salvo per l'erogazione dei servizi o obblighi legali.
 
-Vos données sont stockées chez des fournisseurs de confiance (Supabase et services d'authentification sociale) et protégées par des mesures de sécurité.
+## 4. Archiviazione e Sicurezza
 
-## 5. Vos Droits
+I dati vengono archiviati in modo sicuro presso fornitori affidabili (come Supabase) e protetti da misure tecniche adeguate.
 
-Vous pouvez accéder, corriger ou supprimer vos données à tout moment. Pour cela, contactez-nous à suportepuzzlearena@gmail.com.
+## 5. I Tuoi Diritti
 
-## 6. Modifications de cette Politique
+Puoi accedere, correggere o cancellare i tuoi dati in qualsiasi momento. Scrivici all’indirizzo qui sotto.
 
-Nous pouvons mettre à jour cette politique. La version la plus récente sera toujours disponible ici.
+## 6. Modifiche alla Presente Informativa
 
-**Contact :**  
-suportepuzzlearena@gmail.com
+Potremmo aggiornare questa informativa. La versione più recente sarà sempre disponibile nell'app o al link fornito.
+
+**Contatto:**  
+📩 suportepuzzlearena@gmail.com

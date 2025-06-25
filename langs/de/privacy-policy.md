@@ -1,40 +1,42 @@
-# Datenschutzrichtlinie
+# Datenschutzerklärung
 
-**Letzte Aktualisierung:** 1. Juni 2025
+**Letzte Aktualisierung:** 25. Juni 2025
 
-Deine Privatsphäre ist uns wichtig. Diese Datenschutzrichtlinie beschreibt, wie wir deine Informationen sammeln, verwenden, speichern und weitergeben, wenn du die App Puzzle Arena benutzt.
+Der Schutz Ihrer Privatsphäre ist uns wichtig. In dieser Datenschutzerklärung erfahren Sie, wie wir Ihre Daten beim Verwenden der Puzzle Arena App erfassen, nutzen, speichern und schützen.
 
-## 1. Welche Informationen wir sammeln
+## 1. Erfasste Informationen
 
-Wir sammeln Daten wie:
+Wir erfassen möglicherweise:
 
-- Benutzername und E-Mail (bei Anmeldung über soziale Netzwerke)
-- Spielfortschritt und Statistiken
-- Geräteinformationen (Modell, Sprache, Betriebssystemversion)
+- Benutzername und E-Mail-Adresse (bei Login über soziale Netzwerke)
+- Spielfortschritt und Statistiken (XP, Münzen, Erfolge usw.)
+- Geräteinformationen: Modell, Sprache, Systemversion und eine eindeutige Gerätekennung
 
-## 2. Verwendung der Informationen
+> 🔐 Diese eindeutige Kennung wird **ausschließlich verwendet, um Ihren Fortschritt ohne Login auf dem Gerät zu speichern**, und **wird nicht an Dritte weitergegeben oder zu Werbe-/Trackingzwecken verwendet**.
 
-Wir verwenden deine Daten, um:
+## 2. Nutzung der Informationen
 
-- Deine App-Erfahrung zu personalisieren
-- Deinen Fortschritt zu speichern
-- Statistiken und Belohnungen anzuzeigen
+Wir verwenden Ihre Daten, um:
+
+- Die App-Erfahrung zu personalisieren
+- Ihren Fortschritt zu speichern und wiederherzustellen
+- Statistiken, Belohnungen und Einstellungen anzuzeigen
 
 ## 3. Weitergabe von Informationen
 
-Wir verkaufen oder teilen deine personenbezogenen Daten nicht mit Dritten, außer wenn es für unsere Dienste notwendig ist oder gesetzlich vorgeschrieben ist.
+Wir verkaufen oder teilen Ihre persönlichen Daten nicht mit Dritten, außer wenn dies zur Bereitstellung unserer Dienste erforderlich ist oder gesetzlich vorgeschrieben wird.
 
 ## 4. Speicherung und Sicherheit
 
-Deine Daten werden bei vertrauenswürdigen Anbietern (Supabase und Social-Auth-Dienste) gespeichert und mit Sicherheitsmaßnahmen geschützt.
+Ihre Daten werden sicher auf zuverlässigen Plattformen wie Supabase gespeichert und durch geeignete Sicherheitsmaßnahmen geschützt.
 
-## 5. Deine Rechte
+## 5. Ihre Rechte
 
-Du kannst jederzeit auf deine Daten zugreifen, sie korrigieren oder löschen. Kontaktiere uns unter suportepuzzlearena@gmail.com.
+Sie können jederzeit auf Ihre Daten zugreifen, sie korrigieren oder löschen. Kontaktieren Sie uns dazu per E-Mail.
 
 ## 6. Änderungen dieser Richtlinie
 
-Wir können diese Richtlinie aktualisieren. Die aktuelle Version ist immer hier verfügbar.
+Wir können diese Richtlinie aktualisieren. Die aktuelle Version ist immer in der App oder über diesen Link verfügbar.
 
 **Kontakt:**  
-suportepuzzlearena@gmail.com
+📩 suportepuzzlearena@gmail.com

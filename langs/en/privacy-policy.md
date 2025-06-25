@@ -1,40 +1,42 @@
 # Privacy Policy
 
-**Last updated:** June 1, 2025
+**Last updated:** June 25, 2025
 
-Your privacy is important to us. This Privacy Policy describes how we collect, use, store, and share your information when you use the Puzzle Arena app.
+Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect your information when using the Puzzle Arena app.
 
 ## 1. Information We Collect
 
-We collect data such as:
+We may collect:
 
-- Username and email (when you log in with social networks)
-- Game progress and statistics
-- Device information (model, language, OS version)
+- Username and email (when logging in via social networks)
+- Game progress and statistics (XP, coins, achievements, etc.)
+- Device information: model, language, system version, and a unique device identifier
 
-## 2. Use of Information
+> 🔐 This unique identifier is used **only to save your progress on the same device without login**, and **is never shared with third parties or used for tracking or advertising**.
+
+## 2. How We Use Your Information
 
 We use your data to:
 
-- Personalize your experience in the app
-- Save your progress
-- Show statistics and rewards
+- Personalize the app experience
+- Save and restore your progress
+- Show statistics, rewards, and settings
 
 ## 3. Information Sharing
 
-We do not sell or share your personal information with third parties, except when necessary to provide our services or when required by law.
+We do not sell or share your personal data with third parties, except as necessary to provide our services or if required by law.
 
 ## 4. Storage and Security
 
-Your data is stored with trusted providers (Supabase and social authentication services) and protected with security measures.
+Your data is stored securely using trusted services (such as Supabase and social login providers) with appropriate security measures.
 
 ## 5. Your Rights
 
-You can access, correct, or delete your data at any time. To do so, contact us at suportepuzzlearena@gmail.com.
+You may request access, correction, or deletion of your data at any time. Contact us at the email below.
 
-## 6. Changes to this Policy
+## 6. Changes to This Policy
 
-We may update this policy. The most recent version will always be available here.
+We may update this policy. The latest version will always be available within the app or at this link.
 
 **Contact:**  
-suportepuzzlearena@gmail.com
+📩 suportepuzzlearena@gmail.com
