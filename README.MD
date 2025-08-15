@@ -6,7 +6,13 @@ This repository hosts static Markdown files for legal compliance, which are disp
 
 ## 📂 Structure
 
-- Each language has its own folder under `lang/`, containing the **Privacy Policy** and **Terms of Use** documents.
+- `lang/` → Each language folder contains:
+
+  - `privacy-policy.md` → Privacy Policy
+
+  - `terms-of-use.md` → Terms of Use
+
+  - `licenses.html` → Open Source Licenses and Credits
 
 ## 🌍 Available Languages
 
